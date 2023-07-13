@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\P2\XXQLibrary\UserFunctions.h(203): warning C4715: “FaceUser”: 不是所有的控件路径都返回值
+  XXQLibrary.vcxproj -> D:\P2\XXQLibrary\x64\Debug\XXQLibrary.exe
