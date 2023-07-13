@@ -1,0 +1,3 @@
+﻿  library.cpp
+E:\图书VS\LibraryManger\Project1\library.cpp(109): warning C4715: “Reverse”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> E:\图书VS\LibraryManger\x64\Debug\Project1.exe
